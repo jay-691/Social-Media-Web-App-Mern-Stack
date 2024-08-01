@@ -33,7 +33,6 @@ This project is a full-stack social media web application 🌐 that has been dev
 - Follow/Unfollow Users.
 - View No Of Followers/Following Of User.
 - View Other Posts By Follow Users And React On That Posts.
-- Update/Edit Profile Page User Data.
 
 
 ### **SignUp/Register Page**  :
